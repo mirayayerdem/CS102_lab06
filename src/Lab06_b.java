@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 /**
  * A class finds the number of non-vowels in the input
- * author: Miray Ayerdem
- * date: 06/12/2020
+ * @author: Miray Ayerdem
+ * @date: 06/12/2020
  */
 public class Lab06_b {
 
