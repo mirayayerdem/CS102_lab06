@@ -1,7 +1,16 @@
-public class Lab06_a {
+import java.util.Scanner;
+
+public class Lab06_a
+/**
+ * A Class to find the number of files in the directory
+ * @author Miray Ayerdem
+ * @date 08/12/2020
+ */{
     public static void main(String[] args)
     {
-        String str = "CS102 is the best";
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the string: ");
+        String str = in.nextLine();
         System.out.println(findLengthOfStr(str));
 
     }
